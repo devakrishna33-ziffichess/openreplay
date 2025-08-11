@@ -92,7 +92,7 @@ ENV TZ=UTC \
   CH_PASSWORD="" \
   CH_DATABASE="default" \
   # Max file size to process, default to 100MB
-  MAX_FILE_SIZE=100000000 \
+  MAX_FILE_SIZE=1000000000 \
   USE_ENCRYPTION=false \
   # Use to enable cloud specific feature
   CLOUD="aws" \
