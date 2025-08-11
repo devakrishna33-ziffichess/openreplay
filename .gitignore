@@ -7,3 +7,6 @@ node_modules
 **/*.envrc
 .idea
 *.mob*
+
+_backend
+vars.yaml
